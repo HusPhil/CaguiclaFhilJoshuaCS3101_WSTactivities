@@ -1,0 +1,39 @@
+:root {
+    --clr-blue-black: #030630;
+    --clr-fav-green: #3DDC84;
+
+    --size-box: 230px;
+}
+
+body {
+    padding: 0;
+    margin:  0;
+    
+    background: var(--clr-blue-black);
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.flex-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: "Varela Round", sans-serif;
+    min-height: var(--size-box);
+    max-height: var(--size-box);
+    min-width: var(--size-box);
+    max-width: var(--size-box);
+    
+    background: var(--clr-fav-green);
+
+}
+
