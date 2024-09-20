@@ -32,8 +32,21 @@ body {
     max-height: var(--size-box);
     min-width: var(--size-box);
     max-width: var(--size-box);
-    
+    border: var(--clr-blue-black) dashed 5px;
     background: var(--clr-fav-green);
 
+}
+
+.flex-item h2 {
+    text-align: center;
+}
+
+hr {
+    background-color: #030630;
+    border-color: var(--clr-blue-black);
+}
+
+.material-icons {
+    margin-right: 10px;
 }
 
