@@ -123,6 +123,6 @@ Special thanks to Professor [Fatima Marie Agdon](https://github.com/marieemoisel
 ## Copyright
  2024 All Rights Reserved
 
-This work is part of the Web Systems and Technologies course at STI College Novaliches. All source code, documentation, and related materials are protected under copyright law. No part of this project may be reproduced or used without proper attribution and permission.
+This work is part of the Web Systems and Technologies course at BatStateU - Alangilan Campus. All source code, documentation, and related materials are protected under copyright law. No part of this project may be reproduced or used without proper attribution and permission.
 
 For educational purposes only.
