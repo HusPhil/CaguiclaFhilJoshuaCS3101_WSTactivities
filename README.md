@@ -5,7 +5,7 @@ This repository contains a collection of laboratory activities focused on web de
 
 ## Laboratory Activities
 
-### [Laboratory Activity 1: HTML Tables](./Laboratory%20Activity%201%20-%2006-09-2024/) 📊
+### [Laboratory Activity 1: HTML Tables](./Laboratory%20Activities/Laboratory%20Activity%201%20-%2006-09-2024/) 📊
 **Date: September 6, 2024**
 - Created an interactive class schedule using HTML tables
 - Implemented CSS styling for better visual presentation
@@ -83,29 +83,31 @@ Each laboratory activity has its own directory containing:
 
 ## Directory Structure
 ```
-Laboratory Activities/
-├── Laboratory Activity 1 - 06-09-2024/
-│   ├── html-tables.html
-│   ├── html-tables-output.jpg
-│   └── README.md
-├── Laboratory Activity 2 - 04-10-2024/
-│   ├── images/
-│   ├── styles.css
-│   ├── visionboard.html
-│   ├── visionboard-output.gif
-│   └── README.md
-├── Laboratory Activity 3 - 19-11-2024/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   ├── word-sentence-ctr-output.gif
-│   └── README.md
-├── Laboratory Activity 4 - 29-11-2024/
-│   ├── assets/
-│   ├── index.html
-│   ├── styles.css
-│   ├── script.js
-│   ├── personal-page-output.gif
+WST ACTIVITIES/
+├── Laboratory Activities/
+│   ├── Laboratory Activity 1 - 06-09-2024/
+│   │   ├── html-tables.html
+│   │   ├── html-tables-output.jpg
+│   │   └── README.md
+│   ├── Laboratory Activity 2 - 04-10-2024/
+│   │   ├── images/
+│   │   ├── styles.css
+│   │   ├── visionboard.html
+│   │   ├── visionboard-output.gif
+│   │   └── README.md
+│   ├── Laboratory Activity 3 - 19-11-2024/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   ├── script.js
+│   │   ├── word-sentence-ctr-output.gif
+│   │   └── README.md
+│   ├── Laboratory Activity 4 - 29-11-2024/
+│   │   ├── assets/
+│   │   ├── index.html
+│   │   ├── styles.css
+│   │   ├── script.js
+│   │   ├── personal-page-output.gif
+│   │   └── README.md
 │   └── README.md
 └── README.md
 ```
