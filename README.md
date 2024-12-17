@@ -118,7 +118,7 @@ WST ACTIVITIES/
 - **November 2024**: JavaScript functionality and interactive features
 
 ## Acknowledgements
-Special thanks to Professor Fatima Marie Agdon for her guidance and expertise throughout this Web Systems and Technologies course. Her dedication to teaching and comprehensive approach to web development has been instrumental in the success of these laboratory activities.
+Special thanks to Professor [Fatima Marie Agdon](https://github.com/marieemoiselle) for her guidance and expertise throughout this Web Systems and Technologies course. Her dedication to teaching and comprehensive approach to web development has been instrumental in the success of these laboratory activities.
 
 ## Copyright
  2024 All Rights Reserved
