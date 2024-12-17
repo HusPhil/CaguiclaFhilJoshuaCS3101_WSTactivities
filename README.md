@@ -116,3 +116,13 @@ WST ACTIVITIES/
 - **September 2024**: Basic HTML and CSS with table structures
 - **October 2024**: Advanced CSS and responsive design
 - **November 2024**: JavaScript functionality and interactive features
+
+## Acknowledgements
+Special thanks to Professor Fatima Marie Agdon for her guidance and expertise throughout this Web Systems and Technologies course. Her dedication to teaching and comprehensive approach to web development has been instrumental in the success of these laboratory activities.
+
+## Copyright
+ 2024 All Rights Reserved
+
+This work is part of the Web Systems and Technologies course at STI College Novaliches. All source code, documentation, and related materials are protected under copyright law. No part of this project may be reproduced or used without proper attribution and permission.
+
+For educational purposes only.
