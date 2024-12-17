@@ -56,7 +56,7 @@ tr:hover {
 ```
 
 ## Output
-The final output is saved as `html-tables-output.jpg`, showing a fully functional and styled class schedule.
+![HTML Tables Output](./html-tables-output.jpg)
 
 ## Learning Outcomes
 - Understanding HTML table structure and semantics

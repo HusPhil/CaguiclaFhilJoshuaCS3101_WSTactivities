@@ -1,4 +1,4 @@
-# Laboratory Activity 3: Word and Sentence Counter ✍️
+# Laboratory Activity 3: Word and Sentence Counter 
 
 ## Overview
 This laboratory activity implements a dynamic word and sentence counter using HTML, CSS, and JavaScript. The application provides real-time counting of words and sentences as users type.
@@ -66,7 +66,7 @@ textInput.addEventListener('input', function() {
 ```
 
 ## Output
-The functionality is demonstrated in `word-sentence-ctr-output.gif`, showing real-time counting in action.
+![Word and Sentence Counter](./word-sentence-ctr-output.gif)
 
 ## Learning Outcomes
 - DOM manipulation with JavaScript

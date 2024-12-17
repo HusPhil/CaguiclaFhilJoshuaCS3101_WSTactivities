@@ -58,7 +58,7 @@ This laboratory activity involves creating a personal vision board website using
 ```
 
 ## Output
-The final result is captured in `visionboard-output.gif`, showcasing an interactive and visually appealing vision board website.
+![Vision Board Website](./visionboard-output.gif)
 
 ## Learning Outcomes
 - Implementing responsive layouts

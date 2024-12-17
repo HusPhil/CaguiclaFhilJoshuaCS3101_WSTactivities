@@ -82,7 +82,7 @@ document.querySelectorAll('nav a').forEach(anchor => {
 ```
 
 ## Output
-The final portfolio website is demonstrated in `personal-page-output.gif`, showing the interactive features and responsive design.
+![Personal Portfolio Page](./personal-page-output.gif)
 
 ## Learning Outcomes
 - Creating responsive layouts
