@@ -10,7 +10,7 @@ This repository contains a collection of laboratory activities focused on web de
 - Created an interactive class schedule using HTML tables
 - Implemented CSS styling for better visual presentation
 - Added hover effects and color-coding for enhanced user experience
-- [View Details](./Laboratory%20Activity%201%20-%2006-09-2024/README.md)
+- [View Details](https://github.com/HusPhil/CaguiclaFhilJoshuaCS3101_WSTactivities/blob/master/Laboratory%20Activities/Laboratory%20Activity%201%20-%2006-09-2024/README.md)
 
 ### [Laboratory Activity 2: Vision Board Website](./Laboratory%20Activity%202%20-%2004-10-2024/) 🎯
 **Date: October 4, 2024**
